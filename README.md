@@ -1,2 +1,2 @@
 # ResponsiveDesign
-Create a site with resposive design
+Created a site with resposive design
